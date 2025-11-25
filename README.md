@@ -1,7 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=eba714&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eba714&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!+I'm+Assis;Brazilian+Developer;Back+End+Student+and+Tech+Explorer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
-
-**Assiis/Assiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +13,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Assiis&bg_color=0d1117&color=eba714&line=ffffff&point=eba714&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=eba714&height=120&section=footer"/>
